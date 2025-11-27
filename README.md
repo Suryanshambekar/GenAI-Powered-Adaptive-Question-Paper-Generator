@@ -3,6 +3,10 @@
 ### Overview
 This project turns course PDFs into curated exam-style questions by combining retrieval-augmented generation (RAG) with a fine-tuned T5 question-generation model. A Streamlit interface orchestrates PDF ingestion, semantic chunking, FAISS-based retrieval, and guided question synthesis to keep the prompts aligned with the uploaded material.
 
+### The project is deployed on:
+
+Streamlit Cloud: [https://road-extraction-using-cnn-based-architectures.streamlit.app](https://genai-powered-question-paper-generator.streamlit.app)
+
 ### Features
 - Adaptive question generation from any lecture PDF without manual curation.
 - Lightweight SentenceTransformer embeddings (`all-MiniLM-L6-v2`) for fast semantic similarity search.
