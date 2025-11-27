@@ -5,7 +5,7 @@ This project turns course PDFs into curated exam-style questions by combining re
 
 ### The project is deployed on:
 
-Streamlit Cloud: [https://road-extraction-using-cnn-based-architectures.streamlit.app](https://genai-powered-question-paper-generator.streamlit.app)
+Streamlit Cloud: [https://genai-powered-question-paper-generator.streamlit.app](https://genai-powered-question-paper-generator.streamlit.app)
 
 ### Features
 - Adaptive question generation from any lecture PDF without manual curation.
