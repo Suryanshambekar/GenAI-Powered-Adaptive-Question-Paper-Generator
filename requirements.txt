@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentencepiece
+sentence-transformers
+faiss-cpu
+pypdf2
+numpy
+accelerate
